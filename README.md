@@ -1,108 +1,149 @@
-# 🤖 J.A.R.V.I.S. – Quantum Task Hub
+# 🤖 J.A.R.V.I.S. — Quantum Task Hub
 
-> A futuristic AI-powered task management and productivity dashboard inspired by JARVIS.
+<p align="center">
+  <strong>A futuristic AI-powered productivity and task management dashboard.</strong>
+</p>
 
-## 🌐 Live Website
-
-🚀 **[Visit JARVIS Quantum Task Hub](YOUR_WEBSITE_LINK_HERE)**
+<p align="center">
+  <a href="https://jarvis-task-hub.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Website-00f3ff?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
 ---
 
-## 📌 About the Project
+## 🌐 Live Website
 
-J.A.R.V.I.S. Quantum Task Hub is a futuristic productivity dashboard designed to combine task management, AI assistance, voice interaction, and focus tools into one interactive interface.
+🚀 **[Launch J.A.R.V.I.S. Quantum Task Hub](https://jarvis-task-hub.vercel.app)**
 
-The application features a holographic 3D JARVIS interface with real-time task tracking and an AI assistant.
+---
+
+## 📖 About
+
+**J.A.R.V.I.S. — Quantum Task Hub** is a futuristic productivity dashboard designed to combine task management, AI assistance, voice interaction, and focused work tools into a single interactive interface.
+
+The project features a holographic-inspired JARVIS interface powered by **React and Three.js**, along with task tracking, AI interaction, voice commands, productivity statistics, and a Pomodoro-style focus timer.
+
+The goal is to create a more immersive and intelligent way to manage everyday tasks and productivity.
 
 ---
 
 ## ✨ Features
 
-- 🤖 Futuristic JARVIS AI Assistant
-- 📋 Task management system
-- ➕ Create and manage tasks
-- ✅ Mark tasks as completed
-- 🗑️ Delete completed tasks
-- 🔎 Search and filter tasks
-- 🎯 Pomodoro Focus Timer
-- 🎙️ Voice command support
-- 🔊 AI voice responses
-- 🔔 Desktop notification support
-- 💾 LocalStorage task persistence
-- 🌌 Interactive Three.js holographic interface
-- ⚡ Real-time system status
-- ⌨️ Keyboard shortcuts
+### 🤖 JARVIS AI Assistant
 
----
-
-## 🧠 AI Assistant
-
-The JARVIS interface is designed to interact with an AI model for:
-
-- Task breakdown
+- AI-powered conversational interface
+- Task-aware AI assistance
+- AI task breakdown
 - Schedule optimization
-- Productivity assistance
-- General AI conversations
-- Voice-based interaction
+- Productivity recommendations
+- Futuristic JARVIS-style responses
+- Text-to-speech responses
+
+### 📋 Task Management
+
+- Create new tasks
+- Set task categories
+- Set task priorities
+- Set task times
+- Mark tasks as completed
+- Delete tasks
+- Search tasks
+- Filter pending/completed tasks
+- Filter tasks by category
+- Persistent task storage
+
+### 🎙️ Voice Interaction
+
+- Voice command input
+- Speech recognition
+- Text-to-speech responses
+- Voice task creation
+- Voice-based focus commands
+- System status voice briefing
+
+### 🎯 Quantum Focus Mode
+
+- 25-minute Pomodoro-style timer
+- Start/pause functionality
+- Timer reset
+- Completion notifications
+- Audio feedback
+- Visual focus-mode effects
+
+### 🌌 3D Holographic Interface
+
+- Interactive Three.js scene
+- Futuristic holographic core
+- Rotating orbital rings
+- Particle effects
+- Dynamic lighting
+- Mouse-based parallax effect
+- Animated system states
+- Speaking/listening visual effects
+
+### 🔔 Productivity Utilities
+
+- Desktop notification permission
+- Real-time clock
+- Real-time date
+- Productivity statistics
+- System status indicator
+- Toast notifications
+- Keyboard shortcuts
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React
 - JavaScript
 - Vite
 
-### 3D & UI
+### 3D Graphics
+
 - Three.js
-- Lucide React
-- CSS
 - WebGL
 
+### UI & Icons
+
+- Lucide React
+- CSS
+- Glassmorphism
+- Neon / Cyberpunk UI
+
 ### Browser APIs
+
 - Web Speech API
 - Speech Synthesis API
 - Notifications API
 - LocalStorage
+- Web Audio API
 
 ### AI
+
 - Google Gemini API
 
----
+### Deployment
 
-## 🎯 Main Modules
-
-### 📋 Task Management
-Create, complete, delete, search and filter tasks according to category and priority.
-
-### 🤖 JARVIS AI Assistant
-Interact with the AI assistant through a dedicated chat interface.
-
-### 🎙️ Voice Commands
-Use your microphone to give JARVIS commands through speech recognition.
-
-### 🎯 Quantum Focus Mode
-A 25-minute Pomodoro-style focus timer designed to help maintain productivity.
-
-### 🌌 3D Holographic Interface
-Three.js is used to create the animated holographic JARVIS core, orbital rings and particle effects.
+- Vercel
+- GitHub
 
 ---
 
-## ⌨️ Keyboard Shortcuts
+## 🧠 AI Capabilities
 
-| Shortcut | Action |
-|---|---|
-| `/` | Search tasks |
-| `Ctrl + N` | Create new task |
-| `Space` | Start/Pause Focus Mode |
+JARVIS is designed to assist with productivity-related tasks such as:
 
----
-
-## 🚀 Run Locally
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+```text
+User
+  ↓
+JARVIS AI
+  ↓
+Task Context
+  ↓
+AI Processing
+  ↓
+Productivity Response
