@@ -147,3 +147,75 @@ Task Context
 AI Processing
   ↓
 Productivity Response
+AI Quick Actions
+
+Auto-Breakdown
+
+Breaks high-priority tasks into smaller actionable steps.
+
+Optimize Schedule
+
+Analyzes active tasks and suggests an efficient sequence for completing them.
+
+🎙️ Voice Commands
+
+JARVIS supports voice-based interaction through browser speech recognition.
+
+Example commands:
+
+"Add complete my machine learning assignment"
+
+"Give me a status update"
+
+"Start focus"
+
+"Start timer"
+
+"Remind me to study"
+
+"Create a new project task"
+⌨️ Keyboard Shortcuts
+Shortcut	Action
+/	Focus task search
+Ctrl + N	Create a new task
+Space	Start / pause focus mode
+📊 Dashboard
+
+The dashboard provides real-time productivity information including:
+
+Active tasks
+Completed tasks
+Completion percentage
+Focus session timer
+System status
+Current date and time
+🌌 JARVIS Interface
+
+The interface uses a futuristic cyberpunk-inspired visual system containing:
+
+Holographic elements
+Neon cyan/purple lighting
+Glassmorphism panels
+Animated particles
+3D orbital structures
+Dynamic system indicators
+Responsive dashboard layout
+📁 Project Structure
+jarvis/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── .oxlintrc.json
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
